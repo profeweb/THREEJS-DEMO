@@ -1,2 +1,2 @@
 # THREEJS-DEMO
- ThreeJS DEmo
+ ThreeJS Demo
